@@ -1,0 +1,8 @@
+{
+  "name": "Remix Progenius Ultra",
+  "description": "Yapay zeka destekli toplu spor veri analiz ve trend \u0026 sinyal paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
